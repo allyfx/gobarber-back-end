@@ -2,7 +2,7 @@
 <blockquote align='center'>Back-end of the Gobarber application made during the GoStack Bootcamp by Rocketseat.</blockquote>
 
 ## 💡What is it?
-GoBarber is an application made during the GoStack course provided by Rocketseat. It was developed to teach about back-end, front-end and mobile at the same course using React.The application allows you to hire a barber or be one. It connects you with the world!
+GoBarber is an application made during the GoStack course provided by Rocketseat. It was developed to teach about back-end, front-end and mobile at the same course using React. The application allows you to hire a barber or be one. It connects you with the world!
 
 ## 🚧Built With
 - NodeJS
