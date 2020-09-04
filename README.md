@@ -11,4 +11,4 @@ GoBarber is an application made during the GoStack course provided by Rocketseat
 ## 📂Project
 - [Back-end](https://github.com/allyfx/gobarber-back-end) here's the back-end of the application.
 - [Front-end](https://github.com/allyfx/gobarber-front-end) here's the front-end of the application.
-- [Mobile]() here's the mobile of the application (coming soon).
+- [Mobile](https://github.com/allyfx/gobarber-mobile) here's the mobile of the application.
