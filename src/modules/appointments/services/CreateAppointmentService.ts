@@ -20,8 +20,8 @@ class CreateAppointmentServices {
     ) {}
 
     public async execute({
-        user_id,
         date,
+        user_id,
         provider_id,
     }: IRequest): Promise<Appointment> {
         const appointmentDate = startOfHour(date);
