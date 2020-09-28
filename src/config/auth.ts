@@ -1,15 +1,6 @@
-import { Secret } from 'jsonwebtoken';
-
-interface IAuthConfig {
-    jwt: {
-        secret: Secret;
-        expiredIn: string;
-    };
-}
-
 export default {
     jwt: {
-        secret: '63373b41cf913e9f9b3226b4a0452737',
+        secret: process.env.APP_SECRET || 'default',
         expiredIn: '1d',
     },
-} as IAuthConfig;
+};

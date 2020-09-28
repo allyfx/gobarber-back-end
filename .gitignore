@@ -4,7 +4,7 @@ node_modules/
 build/
 temp/
 .env
-coverage
+covarage
 ormconfig.json
 dist
 
