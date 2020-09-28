@@ -18,11 +18,5 @@
     "emitDecoratorMetadata": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true
-  },
-  "exclude": [
-      "node_modules",
-      "covarage",
-      "jest.config.js",
-      "prettier.config.js"
-    ],
+  }
 }
